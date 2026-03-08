@@ -1,0 +1,2 @@
+# volume_increase
+My ubuntu had very less volume on the speakers so I ask GPT how to increase it, just paste this in the console and get higher volume!!
